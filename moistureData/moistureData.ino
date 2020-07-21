@@ -26,15 +26,17 @@ void loop() {
 
   // Print values
 
-  Serial.print('Sensor 1:');
+  Serial.print("Sensor 1: ");
   Serial.println(mst1);
 
-  Serial.print('Sensor 2:');
+  Serial.print("Sensor 2: ");
   Serial.println(mst2);
 
-  // Wait 2 sec --> 2000 ms
+  Serial.println();
 
-  delay(2000);
+  // Wait 100ms
+  
+  delay(100);
   
 }
   
