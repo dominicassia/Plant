@@ -1,259 +1,109 @@
 Sensor 1    : not plugged in
 Sensor 2    : plugged in
-Environment : sitting on desk
+Environment : sitting on desk / cup of water
 
-Sensor 1: 210
-Sensor 2: 47
+    The higher the sensor value, less conductivity  Top     ~ 385 - 400
+        'sitting on the desk dry'
 
-Sensor 1: 212
-Sensor 2: 47
+    The lower the sensor value, more conductivity   Bottom  ~ 270 - 300
+        'sitting in a cup of water'
 
-Sensor 1: 212
-Sensor 2: 52
+'Raw data'  reading directly from the sensor
+'Sensor 2'  raw data mapped from 250-400 to 0-255
 
-Sensor 1: 212
-Sensor 2: 48
+-- low range ( in water ) --
 
-Sensor 1: 212
-Sensor 2: 49
+Raw data: 295
+Sensor 2: 76
 
-Sensor 1: 214
-Sensor 2: 48
+Raw data: 296
+Sensor 2: 78
 
-Sensor 1: 212
-Sensor 2: 47
+Raw data: 295
+Sensor 2: 76
 
-Sensor 1: 212
-Sensor 2: 51
+Raw data: 297
+Sensor 2: 79
 
-Sensor 1: 212
-Sensor 2: 49
+Raw data: 296
+Sensor 2: 78
 
-Sensor 1: 212
-Sensor 2: 49
+Raw data: 296
+Sensor 2: 78
 
-Sensor 1: 212
-Sensor 2: 48
+Raw data: 298
+Sensor 2: 81
 
-Sensor 1: 212
-Sensor 2: 47
+Raw data: 297
+Sensor 2: 79
 
-Sensor 1: 215
-Sensor 2: 49
+Raw data: 296
+Sensor 2: 78
 
-Sensor 1: 214
-Sensor 2: 48
+Raw data: 297
+Sensor 2: 79
 
-Sensor 1: 212
-Sensor 2: 49
+Raw data: 296
+Sensor 2: 78
 
-Sensor 1: 214
-Sensor 2: 51
+Raw data: 297
+Sensor 2: 79
 
-Sensor 1: 214
-Sensor 2: 47
+Raw data: 298
+Sensor 2: 81
 
-Sensor 1: 215
-Sensor 2: 51
+Raw data: 297
+Sensor 2: 79
 
-Sensor 1: 212
-Sensor 2: 49
+Raw data: 296
+Sensor 2: 78
 
-Sensor 1: 212
-Sensor 2: 51
+Raw data: 298
+Sensor 2: 81
 
-Sensor 1: 214
-Sensor 2: 51
+-- high range ( on desk ) --
 
-Sensor 1: 212
-Sensor 2: 45
+Raw data: 386
+Sensor 2: 231
 
-Sensor 1: 214
-Sensor 2: 49
+Raw data: 386
+Sensor 2: 231
 
-Sensor 1: 214
-Sensor 2: 49
+Raw data: 385
+Sensor 2: 229
 
-Sensor 1: 212
-Sensor 2: 49
+Raw data: 386
+Sensor 2: 231
 
-Sensor 1: 214
-Sensor 2: 51
+Raw data: 386
+Sensor 2: 231
 
-Sensor 1: 212
-Sensor 2: 45
+Raw data: 387
+Sensor 2: 232
 
-Sensor 1: 214
-Sensor 2: 49
+Raw data: 386
+Sensor 2: 231
 
-Sensor 1: 212
-Sensor 2: 49
+Raw data: 386
+Sensor 2: 231
 
-Sensor 1: 212
-Sensor 2: 51
+Raw data: 386
+Sensor 2: 231
 
-Sensor 1: 214
-Sensor 2: 51
+Raw data: 385
+Sensor 2: 229
 
-Sensor 1: 212
-Sensor 2: 44
+Raw data: 386
+Sensor 2: 231
 
-Sensor 1: 211
-Sensor 2: 49
+Raw data: 368
+Sensor 2: 200
 
-Sensor 1: 214
-Sensor 2: 48
+Raw data: 350
+Sensor 2: 170
 
-Sensor 1: 212
-Sensor 2: 51
+Raw data: 388
+Sensor 2: 234
 
-Sensor 1: 214
-Sensor 2: 49
-
-Sensor 1: 212
-Sensor 2: 49
-
-Sensor 1: 212
-Sensor 2: 49
-
-Sensor 1: 214
-Sensor 2: 49
-
-Sensor 1: 212
-Sensor 2: 52
-
-Sensor 1: 214
-Sensor 2: 49
-
-Sensor 1: 212
-Sensor 2: 48
-
-Sensor 1: 214
-Sensor 2: 49
-
-Sensor 1: 207
-Sensor 2: 44
-
-Sensor 1: 197
-Sensor 2: 35
-
-Sensor 1: 192
-Sensor 2: 33
-
-Sensor 1: 209
-Sensor 2: 45
-
-Sensor 1: 207
-Sensor 2: 47
-
-Sensor 1: 192
-Sensor 2: 30
-
-Sensor 1: 170
-Sensor 2: 16
-
-Sensor 1: 161
-Sensor 2: 8
-
-Sensor 1: 159
-Sensor 2: 7
-
-Sensor 1: 154
-Sensor 2: 3
-
-Sensor 1: 150
-Sensor 2: 2
-
-Sensor 1: 146
-Sensor 2: -3
-
-Sensor 1: 146
-Sensor 2: -1
-
-Sensor 1: 145
-Sensor 2: -3
-
-Sensor 1: 142
-Sensor 2: -6
-
-Sensor 1: 141
-Sensor 2: -6
-
-Sensor 1: 141
-Sensor 2: -8
-
-Sensor 1: 141
-Sensor 2: -7
-
-Sensor 1: 140
-Sensor 2: -7
-
-Sensor 1: 137
-Sensor 2: -10
-
-Sensor 1: 137
-Sensor 2: -8
-
-Sensor 1: 137
-Sensor 2: -8
-
-Sensor 1: 136
-Sensor 2: -10
-
-Sensor 1: 154
-Sensor 2: 3
-
-Sensor 1: 195
-Sensor 2: 34
-
-Sensor 1: 210
-Sensor 2: 48
-
-Sensor 1: 212
-Sensor 2: 49
-
-Sensor 1: 212
-Sensor 2: 52
-
-Sensor 1: 214
-Sensor 2: 49
-
-Sensor 1: 212
-Sensor 2: 48
-
-Sensor 1: 211
-Sensor 2: 48
-
-Sensor 1: 206
-Sensor 2: 43
-
-Sensor 1: 183
-Sensor 2: 30
-
-Sensor 1: 163
-Sensor 2: 12
-
-Sensor 1: 150
-Sensor 2: -2
-
-Sensor 1: 137
-Sensor 2: -6
-
-Sensor 1: 132
-Sensor 2: -14
-
-Sensor 1: 127
-Sensor 2: -16
-
-Sensor 1: 131
-Sensor 2: -15
-
-Sensor 1: 160
-Sensor 2: 7
-
-Sensor 1: 196
-Sensor 2: 39
-
-Sensor 1: 211
-Sensor 2: 45
-
+Raw data: 387
+Sensor 2: 232
