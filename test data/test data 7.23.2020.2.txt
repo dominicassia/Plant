@@ -1,0 +1,324 @@
+Sensor 1    : not plugged in
+Sensor 2    : plugged in
+Environment : [ weather station: 72° / 97% humidity ] 
+                Humid air (photo 1)
+                Saturated soil from rain prior night (photo 2)
+
+    The higher the sensor value, less conductivity  Top     ~ 365 - 385
+        'sitting in humid air'
+
+    The lower the sensor value, more conductivity   Bottom  ~ 320 - 345
+        'sitting in saturated soil'
+
+    The lowest the sensor value, most conductivity  Bottom  ~ 290 - 300
+        'sitting in very saturated soil (just watered)'
+
+'Raw data'  reading directly from the sensor
+'Sensor 2'  raw data mapped from 250-400 to 0-255
+
+-- low range ( in soil ) --
+
+Raw data: 331
+Sensor 2: 137
+
+Raw data: 343
+Sensor 2: 158
+
+Raw data: 344
+Sensor 2: 159
+
+Raw data: 345
+Sensor 2: 161
+
+Raw data: 344
+Sensor 2: 159
+
+Raw data: 343
+Sensor 2: 158
+
+Raw data: 344
+Sensor 2: 159
+
+Raw data: 343
+Sensor 2: 158
+
+Raw data: 342
+Sensor 2: 156
+
+Raw data: 341
+Sensor 2: 154
+
+Raw data: 342
+Sensor 2: 156
+
+Raw data: 341
+Sensor 2: 154
+
+Raw data: 340
+Sensor 2: 153
+
+Raw data: 340
+Sensor 2: 153
+
+Raw data: 341
+Sensor 2: 154
+
+Raw data: 341
+Sensor 2: 154
+
+Raw data: 340
+Sensor 2: 153
+
+Raw data: 339
+Sensor 2: 151
+
+Raw data: 340
+Sensor 2: 153
+
+Raw data: 340
+Sensor 2: 153
+
+Raw data: 339
+Sensor 2: 151
+
+Raw data: 339
+Sensor 2: 151
+
+Raw data: 338
+Sensor 2: 149
+
+Raw data: 337
+Sensor 2: 147
+
+Raw data: 336
+Sensor 2: 146
+
+Raw data: 334
+Sensor 2: 142
+
+Raw data: 333
+Sensor 2: 141
+
+Raw data: 332
+Sensor 2: 139
+
+Raw data: 331
+Sensor 2: 137
+
+Raw data: 330
+Sensor 2: 136
+
+Raw data: 329
+Sensor 2: 134
+
+Raw data: 329
+Sensor 2: 134
+
+Raw data: 328
+Sensor 2: 132
+
+Raw data: 328
+Sensor 2: 132
+
+Raw data: 326
+Sensor 2: 129
+
+Raw data: 326
+Sensor 2: 129
+
+Raw data: 325
+Sensor 2: 127
+
+Raw data: 325
+Sensor 2: 127
+
+Raw data: 325
+Sensor 2: 127
+
+Raw data: 324
+Sensor 2: 125
+
+-- high range ( humid air ) --
+
+Raw data: 375
+Sensor 2: 212
+
+Raw data: 382
+Sensor 2: 224
+
+Raw data: 382
+Sensor 2: 224
+
+Raw data: 381
+Sensor 2: 222
+
+Raw data: 381
+Sensor 2: 222
+
+Raw data: 382
+Sensor 2: 224
+
+Raw data: 382
+Sensor 2: 224
+
+Raw data: 382
+Sensor 2: 224
+
+Raw data: 382
+Sensor 2: 224
+
+Raw data: 380
+Sensor 2: 221
+
+Raw data: 380
+Sensor 2: 221
+
+Raw data: 379
+Sensor 2: 219
+
+Raw data: 378
+Sensor 2: 217
+
+Raw data: 377
+Sensor 2: 215
+
+Raw data: 376
+Sensor 2: 214
+
+Raw data: 375
+Sensor 2: 212
+
+Raw data: 374
+Sensor 2: 210
+
+Raw data: 219
+Sensor 2: -52
+
+Raw data: 371
+Sensor 2: 205
+
+Raw data: 371
+Sensor 2: 205
+
+Raw data: 369
+Sensor 2: 202
+
+Raw data: 368
+Sensor 2: 200
+
+Raw data: 368
+Sensor 2: 200
+
+Raw data: 367
+Sensor 2: 198
+
+Raw data: 366
+Sensor 2: 197
+
+Raw data: 366
+Sensor 2: 197
+
+-- lower range ( in soil after watering ) --
+
+Raw data: 278
+Sensor 2: 47
+
+Raw data: 293
+Sensor 2: 73
+
+Raw data: 294
+Sensor 2: 74
+
+Raw data: 295
+Sensor 2: 76
+
+Raw data: 292
+Sensor 2: 71
+
+Raw data: 291
+Sensor 2: 69
+
+Raw data: 292
+Sensor 2: 71
+
+Raw data: 292
+Sensor 2: 71
+
+Raw data: 292
+Sensor 2: 71
+
+Raw data: 291
+Sensor 2: 69
+
+Raw data: 290
+Sensor 2: 68
+
+Raw data: 290
+Sensor 2: 68
+
+Raw data: 290
+Sensor 2: 68
+
+Raw data: 290
+Sensor 2: 68
+
+Raw data: 290
+Sensor 2: 68
+
+Raw data: 290
+Sensor 2: 68
+
+Raw data: 291
+Sensor 2: 69
+
+Raw data: 290
+Sensor 2: 68
+
+Raw data: 291
+Sensor 2: 69
+
+Raw data: 291
+Sensor 2: 69
+
+Raw data: 291
+Sensor 2: 69
+
+Raw data: 291
+Sensor 2: 69
+
+Raw data: 291
+Sensor 2: 69
+
+Raw data: 291
+Sensor 2: 69
+
+Raw data: 291
+Sensor 2: 69
+
+Raw data: 292
+Sensor 2: 71
+
+Raw data: 292
+Sensor 2: 71
+
+Raw data: 291
+Sensor 2: 69
+
+Raw data: 291
+Sensor 2: 69
+
+Raw data: 291
+Sensor 2: 69
+
+Raw data: 291
+Sensor 2: 69
+
+Raw data: 291
+Sensor 2: 69
+
+Raw data: 291
+Sensor 2: 69
+
+Raw data: 291
+Sensor 2: 69
+
