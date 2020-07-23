@@ -1,8 +1,9 @@
 Sensor 1    : not plugged in
 Sensor 2    : plugged in
-Environment : [ weather station: 72° / 97% humidity ] 
-                Humid air (photo 1)
-                Saturated soil from rain prior night (photo 2)
+
+Environment : [ weather station: 72° / 95% humidity ] 
+    Humid air (humid air 7-23-2020.jpeg)
+    Saturated soil from rain prior night (environment 7-23-2020.jpeg 2)
 
     The higher the sensor value, less conductivity  Top     ~ 365 - 385
         'sitting in humid air'
