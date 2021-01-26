@@ -21,7 +21,7 @@ void loop() {
   Serial.print("Raw data: ");
   Serial.println(var);
   
-//  int mst1 = map(analogRead(A0), 400, 650, 0, 255); // Map analog to digital <mst1>
+  int mst1 = map(analogRead(A0), 400, 650, 0, 255); // Map analog to digital <mst1>
   int mst2 = map(var, 250, 400, 0, 255); // Map analog to digital <mst2>
 
   // Write values to LEDs
@@ -38,8 +38,6 @@ void loop() {
   Serial.println(mst2);
 
   Serial.println();
-
-  // Wait 2 s
   
   delay(2000);
   
